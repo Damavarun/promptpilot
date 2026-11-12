@@ -6,5 +6,7 @@ client/dist/
 *.log
 *.tsbuildinfo
 coverage/
+
 npm-cache/
+
 .vercel/
